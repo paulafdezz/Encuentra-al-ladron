@@ -2,7 +2,7 @@
 Titulo : Encuentra al ladrón
 
 Web: https://github.com/paulafdezz
-
+JUEGO: 
 Autor:  Paula Fernandez  Ortega
 
 Resumen :Este es un juego  consiste en encontrar al ladrón , inspirado en los clasicos juegos de "Buscando a Wall-e". Hay diferentes mapas con diferentes niveles de dificultad. 
